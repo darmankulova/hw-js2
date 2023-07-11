@@ -47,6 +47,10 @@
 // let a='hello'
 // console.log(a.replace('ll','ks'))
 
+// let a = 'lorem ipsum dolor sit amet'
+// // вернуть sit lorem ipsum dolor amet
+// console.log(a.slice(18,22)+a.slice(0,18)+a.slice(22))
+
 
 
 
