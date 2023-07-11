@@ -41,19 +41,12 @@
 
 // let a=5
 // let b='400'
-// let c=b.replace(0,a)
-// console.log(c)
+// console.log(b.replace('0',a))
 
 
 // let a='hello'
-// let b=a[2].replace('l','k')
-// let c=a[3].replace('l','s')
-// console.log(a.slice(0,2)+b+c+a.slice(-1))
+// console.log(a.replace('ll','ks'))
 
-let a='hello'
-let b=a[2].split('l').join('k')
-let c=a[3].split('l').join('s')
-console.log(a.slice(0,2)+b+c+a.slice(-1))
 
 
 
